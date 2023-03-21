@@ -1,0 +1,6 @@
+﻿  2주차 수업 용.c
+C:\Users\teakyeong\OneDrive\바탕 화면\C programming\tk-C-programming-\2주차 수업\2주차 수업\2주차 수업\2주차 수업 용.c(9,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\teakyeong\OneDrive\바탕 화면\C programming\tk-C-programming-\2주차 수업\2주차 수업\2주차 수업\2주차 수업 용.c(9,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\teakyeong\OneDrive\바탕 화면\C programming\tk-C-programming-\2주차 수업\2주차 수업\2주차 수업\2주차 수업 용.c(11,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\teakyeong\OneDrive\바탕 화면\C programming\tk-C-programming-\2주차 수업\2주차 수업\2주차 수업\2주차 수업 용.c(11,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+  2주차 수업.vcxproj -> C:\Users\teakyeong\OneDrive\바탕 화면\C programming\tk-C-programming-\2주차 수업\2주차 수업\x64\Debug\2주차 수업.exe
